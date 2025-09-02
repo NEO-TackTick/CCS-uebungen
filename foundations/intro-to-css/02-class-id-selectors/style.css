@@ -1,0 +1,19 @@
+.Gruppe {
+    background-color: rgb(255, 135, 135);
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+#einzeln {
+    color: rgb(0, 0, 219);
+    font-size: 36px;
+}
+
+.Cooler {
+    font-size: 24px;
+}
+
+#zweizeln {
+    background-color: rgb(140, 255, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
